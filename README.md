@@ -3,7 +3,8 @@
 ## Przypadki testowe
 
 Przypadki testowe dla modułu Grywalizacji mobilnej aplikacji turystycznej (dokumentacja dostępna pod linkiem: https://konkursy.govtech.gov.pl/pliki/postepowanie/113/zakonczenie_konsultacji/1898 ). W związku z brakiem niektórych szczegółów w dokumentacji, przyjęłam kilka założeń:
-* Użytkownik nie może wielokrotnie zdobywać punktów odwiedzając ten sam obiekt
+* Użytkownik nie może wielokrotnie zdobywać punktów odwiedzając ten sam obiekt (jest to też pytanie do analityka)
+* Wyznaczoną liczbę kilometrów, potrzebną do zdobycia punktów, Użytkownik może przejść w kilku sesjach
 
 Zestawienie przypadków testowych:
 ![przypadkitestowe_zestawienie](https://user-images.githubusercontent.com/36271849/141099871-f2730874-dab2-4120-97f6-f3860cfba85e.JPG)
