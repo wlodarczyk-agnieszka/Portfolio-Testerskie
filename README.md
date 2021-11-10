@@ -1,9 +1,5 @@
 # Portfolio-Testerskie
 
-* podlinkowac SQL
-* screeny z Jiry
-* pdf z testami
-
 ## Przypadki testowe
 
 Przypadki testowe dla modułu Grywalizacji mobilnej aplikacji turystycznej (dokumentacja dostępna pod linkiem: https://konkursy.govtech.gov.pl/pliki/postepowanie/113/zakonczenie_konsultacji/1898 ). W związku z brakiem niektórych szczegółów w dokumentacji, przyjęłam kilka założeń:
@@ -18,7 +14,7 @@ Wykonanie testów zostało zasymulowane ze względu na brak faktycznej aplikacji
 
 ## Jira
 W systemie Jira zgłosiłam również dwa błędy do realnie istniejącej aplikacji, służącej do zamawiania pizzy.
-Zestawienie zgłoszeń:
+
 ![jirazgloszenia_zestawienie](https://user-images.githubusercontent.com/36271849/141100082-c77de5d4-c247-4103-a77b-4ec9a5ff0fc8.JPG)
 
 Pytania do analityka (dotyczy modułu Grywalizacji w mobilnej aplikacji turystycznej):
@@ -42,5 +38,3 @@ Błąd drugi - brak wizualnego zaznaczenia checkboxa
 ![jira_pizza_dostawa](https://user-images.githubusercontent.com/36271849/141100414-62f01449-5438-4ab5-8319-0cf5904f2af4.JPG)
 
 ![pizza_opcjedostawy](https://user-images.githubusercontent.com/36271849/141100421-ea9b7e97-de19-40bb-bb16-0cec957ead75.JPG)
-
-## SQL
