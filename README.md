@@ -2,7 +2,13 @@
 
 ## Przypadki testowe
 
-Przypadki testowe dla modułu Grywalizacji mobilnej aplikacji turystycznej (dokumentacja dostępna pod linkiem: https://konkursy.govtech.gov.pl/pliki/postepowanie/113/zakonczenie_konsultacji/1898 ). W związku z brakiem niektórych szczegółów w dokumentacji, przyjęłam kilka założeń:
+Przypadki testowe dla bazowych wymagań modułu Grywalizacji mobilnej aplikacji turystycznej (dokumentacja dostępna pod linkiem: https://konkursy.govtech.gov.pl/pliki/postepowanie/113/zakonczenie_konsultacji/1898 ). 
+
+Zestawienie wymagań:
+
+![modul_grywalizacji](https://user-images.githubusercontent.com/36271849/141103549-6d75089f-b717-4baa-8e5f-81dee8a6fb25.JPG)
+
+W związku z brakiem niektórych szczegółów w dokumentacji, przyjęłam kilka założeń:
 * Użytkownik nie może wielokrotnie zdobywać punktów odwiedzając ten sam obiekt (jest to też pytanie do analityka)
 * Wyznaczoną liczbę kilometrów, potrzebną do zdobycia punktów, Użytkownik może przejść w kilku sesjach
 
