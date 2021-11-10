@@ -28,9 +28,9 @@ Pytania do analityka (dotyczy modułu Grywalizacji w mobilnej aplikacji turystyc
 ![jira_por4](https://user-images.githubusercontent.com/36271849/141100208-b2ed32b0-e93c-48f4-bf75-cc3b3507b5c0.JPG)
 
 Błędy (dotyczy portalu do zamawiania pizzy):
-Błąd pierwszy - sortowanie
+1.
 ![jira_pizza_sortowanie](https://user-images.githubusercontent.com/36271849/141101090-957ad9b2-899d-40a2-8a3c-26b7b09468de.JPG)
 ![pizza_sortowanie](https://user-images.githubusercontent.com/36271849/141101122-44a8db7b-ef67-4734-8ba4-a7a55a562e5e.JPG)
-Błąd drugi - brak wizualnego zaznaczenia checkboxa
+2.
 ![jira_pizza_dostawa](https://user-images.githubusercontent.com/36271849/141100414-62f01449-5438-4ab5-8319-0cf5904f2af4.JPG)
 ![pizza_opcjedostawy](https://user-images.githubusercontent.com/36271849/141100421-ea9b7e97-de19-40bb-bb16-0cec957ead75.JPG)
