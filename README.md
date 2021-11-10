@@ -18,7 +18,7 @@ W systemie Jira zgłosiłam również dwa błędy do realnie istniejącej aplika
 
 ![jirazgloszenia_zestawienie](https://user-images.githubusercontent.com/36271849/141100082-c77de5d4-c247-4103-a77b-4ec9a5ff0fc8.JPG)
 
-Pytania do analityka (dotyczy modułu Grywalizacji w mobilnej aplikacji turystycznej):
+**Pytania do analityka (dotyczy modułu Grywalizacji w mobilnej aplikacji turystycznej):**
 ![jira_por1](https://user-images.githubusercontent.com/36271849/141100177-4fbe9107-48f1-4d53-94a0-8ac4f78cf75b.JPG)
 
 ![jira_por2](https://user-images.githubusercontent.com/36271849/141100193-21c1d251-847d-4b0e-a6c1-58e54391cd17.JPG)
@@ -27,10 +27,12 @@ Pytania do analityka (dotyczy modułu Grywalizacji w mobilnej aplikacji turystyc
 
 ![jira_por4](https://user-images.githubusercontent.com/36271849/141100208-b2ed32b0-e93c-48f4-bf75-cc3b3507b5c0.JPG)
 
-Błędy (dotyczy portalu do zamawiania pizzy):
-1.
+**Błędy (dotyczy portalu do zamawiania pizzy):**
+
 ![jira_pizza_sortowanie](https://user-images.githubusercontent.com/36271849/141101090-957ad9b2-899d-40a2-8a3c-26b7b09468de.JPG)
+
 ![pizza_sortowanie](https://user-images.githubusercontent.com/36271849/141101122-44a8db7b-ef67-4734-8ba4-a7a55a562e5e.JPG)
-2.
+
 ![jira_pizza_dostawa](https://user-images.githubusercontent.com/36271849/141100414-62f01449-5438-4ab5-8319-0cf5904f2af4.JPG)
+
 ![pizza_opcjedostawy](https://user-images.githubusercontent.com/36271849/141100421-ea9b7e97-de19-40bb-bb16-0cec957ead75.JPG)
