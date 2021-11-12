@@ -34,6 +34,7 @@ W systemie Jira zgłosiłam również dwa błędy do realnie istniejącej aplika
 ![jira_por4](https://user-images.githubusercontent.com/36271849/141100208-b2ed32b0-e93c-48f4-bf75-cc3b3507b5c0.JPG)
 
 **Błędy (dotyczy portalu do zamawiania pizzy):**
+
 *Uwaga: kilka dni po zarejestrowaniu poniższych błędów, portal został zaktualizowany; błąd sortowania nadal występuje w nowej wersji, natomiast błąd z opcją dostawy już nie.*
 
 ![jira_pizza_sortowanie](https://user-images.githubusercontent.com/36271849/141101090-957ad9b2-899d-40a2-8a3c-26b7b09468de.JPG)
